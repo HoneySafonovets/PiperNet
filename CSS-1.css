@@ -1,0 +1,473 @@
+
+.hat-hat {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 163px;
+    padding-right: 163px;
+    background-color: #007765;
+    height: 84px;
+    width: 1881px;
+    position: fixed; right: auto; top: 0px;
+    z-index: auto;
+}
+
+.hat {  
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 163px;
+    padding-right: 163px;
+}
+
+.gl-logo1 {
+    display: inline-block;
+    position: fixed; left: 55px; top: 20px;
+    margin-left: 331px;
+    padding-left: 5px;
+    
+}
+
+.gl-logo {
+    display: inline-block;
+    position: fixed; left: 55px; top: 20px;
+    margin-left: 331px;
+    padding-left: 5px;
+
+}
+
+.the-problem-small  {
+    display: inline-block;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    position: fixed; right: 349px; top: 28px;
+    margin-right: 331px;
+
+} 
+
+.PiedPiperCoin {
+    display: inline-block;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    position: fixed; right: 172px; top: 29px;
+    margin-right: 331px;
+}
+
+.the-team {
+    display: inline-block;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    position: fixed; right: 54px; top: 28px;
+    margin-right: 331px;
+
+}
+
+.left-palka {
+    display: inline-block;
+    color: #FFFFFF;
+    font-family: 'Robotro', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    position: fixed; right: 334px; top: 28px;
+    margin-right: 331px;
+
+}
+
+.right-palka {
+    display: inline-block;
+    color: #FFFFFF;
+    font-family: 'Robotro', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    position: fixed; right: 157px; top: 28px;
+    margin-right: 331px;
+
+}
+
+.image-1 {
+    background: url('images-1/image.png');
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    background-position: center center;
+    background-size: cover;
+}
+
+.img-1 {
+    max-width: 1219px;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-size: 72px;
+    text-align: center;
+    line-height: 84.38px;
+    font-weight: 500;
+    color: #FFFFFF;
+    left: 0px;
+    top: 244px;
+    padding: 160px 0px 160px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0px;
+    top: 244px;
+    margin-top: 84px;
+}
+
+.problem {
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+}
+
+.zagolovok {
+    left: 55px;
+    top: 535px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    color: #007765;
+    text-align: center;
+    margin-bottom: auto;
+    margin-top: 48px;
+}
+
+.zagolovok_1 {
+    left: 55px;
+    top: 1737px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    color: #007765;
+    text-align: center;
+    margin-bottom: 16px;
+    margin-top: 48px;
+}
+
+.top {
+    margin-top: auto;
+}
+
+.bottom {
+    margin-bottom: auto;
+}
+
+.glav {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.podzagolovok {
+    text-align: justify;
+    margin-top: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 32px;
+    line-height: 38px;
+    font-weight: 400;
+    left: 55px;
+    top: 626px;
+    color: #000;
+}
+
+.section-hero {
+    margin-top: 92px;
+    padding-top: 128px;
+    padding-bottom: 127px;
+    background-image: url('images-1/image-9.png');
+    background-size: cover;
+    box-sizing: border-box;
+    background-position: center center;
+}
+
+.hero-1 {
+    box-sizing: border-box;
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 163px;
+    padding-right: 163px;
+}
+
+.hero {
+    max-width: 1219px;
+    font-family: Roboto, sans-serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.two-p {
+    text-align: justify;
+    margin-top: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-size: 32px;
+    line-height: 38px;
+    font-weight: 400;
+    left: 55px;
+    top: 626px;
+    color: #000; 
+}
+
+.mlogo {
+    float: left;
+    margin-right: 48px;
+}
+
+.podzagolovok_1 {
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 32px;
+    line-height: 38px;
+    font-weight: 400;
+    left: 55px;
+    top: 626px;
+    color: #000; 
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.right-minilogo {
+
+}
+
+.the_team {
+    left: 0px;
+    top: 2293px;
+    background: #EEEEEE;
+    padding-left: 331px;
+    padding-right: 331px;
+    padding-top: 0.25px;
+    margin-top: 92px;
+}
+
+.zagolovok_team {
+    
+}
+
+.topStrok {
+    display: inline-block;
+}
+
+.topstrok2 {
+    display: inline-block;
+    margin-top: 56px;
+}
+
+.richard_hendriks {
+    display: inline-block;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 146px;
+    left: 146px;
+    top: 2472px;
+}
+
+.dinesh_chugtai {
+    display: inline-block;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 208px;
+}
+
+.bertman_gilfoyle {
+    display: inline-block;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 208px;
+}
+
+.bottomStrok {
+    display: inline-block;
+    margin-top: 82px;
+} 
+
+.jared_dunn {
+    margin-left: 146px;
+}
+
+.monica_hall {
+    display: inline-block;
+    margin-left: 208px;
+}
+
+.nelson_beghetti {
+    display: inline-block;
+    margin-left: 208px;
+}
+
+.bigPod   {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #007765;
+    display: inline-block;
+    margin-top: 8px;
+}
+
+/* .bigpod_1 .bigpod_2 .bigpod_3 .bigpod_4 .bigpod_5 .bigpod_6 {
+    
+} */
+
+.podpis11 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bigpod_1 {
+    margin-left: 132px;
+    text-align: center;
+}
+
+.bigpod_2 {
+    margin-left: 100px;
+    width: 350px;
+    text-align: center;
+}
+
+.bigpod_3 {
+    margin-left: 26px;
+    width: 350px;
+    text-align: center;
+}
+
+.smallPod {
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000;
+    display: inline-block;
+}
+
+.podpis12 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.smallPod_1 {
+    margin-left: 170px;
+    text-align: center;
+}
+
+.smallPod_2 {
+    margin-left: 143px;
+    text-align: center;
+    width: 350px;
+}
+
+.smallPod_3 {
+    margin-left: 26px;
+    text-align: center;
+    width: 350px;
+}
+
+.bigpod_4 {
+    margin-left: 55px;    
+    width: 350px;
+    text-align: center;
+}
+
+.bigpod_5 {
+    margin-left: 26px;
+    width: 350px;
+    text-align: center;
+}
+
+.bigpod_6 {
+    margin-left: 26px;
+    width: 350px;
+    text-align: center;
+}
+
+.smallPod_4 {
+    margin-left: 55px;
+    width: 350px;
+    text-align: center;
+}
+
+.smallPod_5 {
+    margin-left: 26px;
+    width: 350px;
+    text-align: center;
+}
+
+.smallPod_6 {
+    margin-left: 26px;
+    width: 350px;
+    text-align: center;
+}
+
+.bottomStrok_1 {
+    margin-bottom: 122px;
+}
+
+.footer-content {
+    box-sizing: border-box;
+    background: #333333;
+}
+
+.footer-2 {
+    box-sizing: border-box;
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 340px;
+    padding-right: 340px;
+    padding-top: 30px;
+    padding-bottom: 46px;
+}
+
+.footer-p {
+    display: block;
+    max-width: 1219px;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
